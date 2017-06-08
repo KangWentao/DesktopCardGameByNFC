@@ -1,0 +1,8 @@
+nfc-list uses libnfc 1.7.1
+NFC device: pn532_spi:/dev/spidev0.0 opened
+1 ISO14443A passive target(s) found:
+ISO/IEC 14443A (106 kbps) target:
+    ATQA (SENS_RES): 00  44  
+       UID (NFCID1): 53  80  00  02  03  04  70  
+      SAK (SEL_RES): 00  
+
